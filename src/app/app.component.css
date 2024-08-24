@@ -1,0 +1,22 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  
+
+.main-body{
+  padding-top: 20px;
+  margin:0 auto;
+  max-width:1300px;
+  mat-form-field{
+    width:100%;
+  }
+}
+
+.action-buttons {
+  display: flex;
+  align-items: center; /* Aligns items vertically centered */
+  gap: 5px; /* Adds space between buttons */
+  padding:10px;
+}
+
+

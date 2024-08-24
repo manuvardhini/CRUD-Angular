@@ -1,0 +1,108 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode",
+      "id": "3033"
+    }
+  ],
+  "employee": [
+    {
+      "firstName": "Hema",
+      "lastName": "A",
+      "email": "hema@gmail.com",
+      "dob": "2024-08-20T18:30:00.000Z",
+      "gender": "Female",
+      "education": "Graduate",
+      "company": "xyz",
+      "experience": 5,
+      "package": 10,
+      "id": "a710"
+    },
+    {
+      "firstName": "Madhu",
+      "lastName": "G",
+      "email": "madhu@gmail.com",
+      "dob": "2024-08-04T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "Google",
+      "experience": 5,
+      "package": 19,
+      "id": "3146"
+    },
+    {
+      "firstName": "Manuvardhini",
+      "lastName": "A",
+      "email": "manu@gmail.com",
+      "dob": "2024-08-11T18:30:00.000Z",
+      "gender": "Female",
+      "education": "Graduate",
+      "company": "asdfb",
+      "experience": 1,
+      "package": 5,
+      "id": "53d9"
+    },
+    {
+      "firstName": "Manuvardhini",
+      "lastName": "A",
+      "email": "manu@gmail.com",
+      "dob": "2024-08-11T18:30:00.000Z",
+      "gender": "Female",
+      "education": "Graduate",
+      "company": "asdfb",
+      "experience": 1,
+      "package": 5,
+      "id": "d2f6"
+    },
+    {
+      "id": "df88",
+      "firstName": "Lakshmi",
+      "lastName": "S",
+      "email": "lucky@gmail.com",
+      "dob": "2021-06-08T18:30:00.000Z",
+      "gender": "Female",
+      "education": "Graduate",
+      "company": "wertyui",
+      "experience": 2,
+      "package": 5
+    },
+    {
+      "id": "39fb",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "jd@gmail.com",
+      "dob": "2024-08-06T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "kjh",
+      "experience": 3,
+      "package": 5
+    },
+    {
+      "id": "d393",
+      "firstName": "a",
+      "lastName": "b",
+      "email": "c@gmail.com",
+      "dob": "2024-08-05T18:30:00.000Z",
+      "gender": "others",
+      "education": "Matric",
+      "company": "dfghjk",
+      "experience": 1,
+      "package": 2
+    }
+  ]
+}
